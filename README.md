@@ -1,6 +1,8 @@
 # Matplotlib-challenge
 Module 5 Challenge
 
+code for this analysis is in the "Pymaceuticals" folder, file name "pymaceuticals.ipynb"
+
 Requirements
 Prepare the Data (20 points) - The datasets are merged into a single DataFrame. (6 points), The number of mice are shown from the merged DataFrame. (2 points), Each duplicate mice is found based on the Mouse ID and Timepoint. (6 points), A clean DataFrame is created with the dropped duplicate mice. (4 points), The number of mice are shown from the clean DataFrame. (2 points)
 
